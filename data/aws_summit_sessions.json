@@ -1,0 +1,242 @@
+[
+  {
+    "session_id": "KEY-01",
+    "title": "基調講演 ビルダーと描く新たな価値創造",
+    "abstract": "AWS は、ビジネスや社会の課題に挑戦するビルダーの大胆なビジョンの実行、実現に伴走します。基調講演では日本のお客様の成長と社会課題の解決のために AWS が進める取り組みと、最もセキュアで日本のお客様にお応えする品質を備えたクラウドサービスの進化をご紹介します。また、実際に AWS を活用して課題を克服し新たな可能性を見出しているお客様に、先進的なお取り組みを紹介いただきます。",
+    "speakers": [
+      {
+        "name": "白幡 晶彦",
+        "title": "代表執行役員社長",
+        "company": "アマゾン ウェブ サービス ジャパン合同会社"
+      },
+      {
+        "name": "柳澤 花芽",
+        "title": "代表取締役 社長",
+        "company": "株式会社野村総合研究所"
+      },
+      {
+        "name": "ラフ―ル パサック",
+        "title": "バイスプレジデント 生成 AI および AI/ML マーケット戦略担当",
+        "company": "Amazon Web Services Inc."
+      },
+      {
+        "name": "ケイト ジェンセン",
+        "title": "上級副社長 グローバル営業統括責任者",
+        "company": "Anthropic"
+      },
+      {
+        "name": "田中 昭二",
+        "title": "ＡＩ戦略プロジェクトグループ プロジェクトグループマネージャー/ＤＸイノベーションセンター 副センター長",
+        "company": "三菱電機株式会社"
+      },
+      {
+        "name": "松本 勇気",
+        "title": "代表取締役CTO",
+        "company": "株式会社LayerX"
+      }
+    ],
+    "track": "KEY",
+    "level": "000",
+    "session_type": "セッション",
+    "date": "2025-06-25",
+    "start_time": "10:00",
+    "end_time": "11:30",
+    "duration": 90,
+    "room": "Room A/B/C/D/E",
+    "has_transcript": true
+  },
+  {
+    "session_id": "AA-01",
+    "title": "実践的な生成 AI 活用の推進: PoC から価値創出へ",
+    "abstract": "Bundesliga や Trellix のように、多くのグローバル企業は生成 AI を本格的に活用し、イノベーションの加速、生産性の向上、コスト削減などのビジネス成果を生み出しています。AWS は、トレーニング、専門家による支援、包括的な生成 AI ソリューションを提供することによって、お客様が素早くアプリケーションを本番稼働へ移行し、安心して拡張できるよう支援しています。本セッションでは、お客様が生成 AI でビジネス価値を創出するための勘所と、AWS がどのように貢献できるかについて解説します。",
+    "speakers": [
+      {
+        "name": "金杉 有見子",
+        "title": "サービス & テクノロジー事業統括本部 AI ソリューション部 部長",
+        "company": "アマゾン ウェブ サービス ジャパン合同会社"
+      }
+    ],
+    "track": "AI",
+    "level": "300",
+    "session_type": "セッション",
+    "date": "2025-06-25",
+    "start_time": "12:50",
+    "end_time": "13:30",
+    "duration": 40,
+    "room": "Room B",
+    "has_transcript": false
+  },
+  {
+    "session_id": "AWS-08",
+    "title": "生成 AI のためのデータ活用実践ガイド",
+    "abstract": "生成AIを活用した検索システムの構築手法を、Amazon BedrockとRetrieval-Augmented Generation (RAG)を使って実装します。具体的には、AWSのサービスを利用して、データの収集、前処理、ベクトル化、検索エンジンの構築までの一連の流れを解説します。",
+    "speakers": [
+      {
+        "name": "高野 翔史",
+        "title": "技術統括本部 エンタープライズ技術本部 自動車・製造グループ ソリューションアーキテクト",
+        "company": "アマゾン ウェブ サービス ジャパン合同会社"
+      }
+    ],
+    "track": "AI",
+    "level": "300",
+    "session_type": "セッション",
+    "date": "2025-06-25",
+    "start_time": "12:50",
+    "end_time": "13:30",
+    "duration": 40,
+    "room": "Room B",
+    "has_transcript": true
+  },
+  {
+    "session_id": "CUS-03",
+    "title": "ソニーグループにおける Agentic AI の大規模展開開始",
+    "abstract": "ソニーグループでは一昨年から生成 AI の活用を進めてきました。昨年からは既にビジネスユーザが Agent を構築できる環境を整備し、社内でのビジネス適応を推進してきました。今期より 「Agentic AI Platform」 として再構築し、人と AI が協業する新しい業務の在り方を目指しており、その展望について共有します。Amazon Bedrock, Bedrock IDE をフルに活用したグローバルな Agentic AI について、アーキテクチャや実際のユースケースを交えてご紹介します。",
+    "speakers": [
+      {
+        "name": "大場 正博",
+        "title": "D&T プラットフォーム 統合戦略部門 グループフェデレートガバナンス部 ゼネラルマネージャー",
+        "company": "ソニーグループ株式会社"
+      },
+      {
+        "name": "平野 太一",
+        "title": "D&T プラットフォーム 統合戦略部門 グループフェデレートガバナンス部 事業 PF 推進課 シニアアーキテクト",
+        "company": "ソニーグループ株式会社"
+      }
+    ],
+    "track": "AI",
+    "level": "300",
+    "session_type": "セッション",
+    "date": "2025-06-25",
+    "start_time": "13:30",
+    "end_time": "14:00",
+    "duration": 30,
+    "room": "Room L",
+    "has_transcript": true
+  },
+  {
+    "session_id": "CUS-07",
+    "title": "エンタープライズ AI の未来：プライベート LLM × Amazon Bedrock で実現する AI エージェント開発",
+    "abstract": "オープンソース LLM の性能向上に伴い、企業独自のドキュメントやデータを使ったプライベート LLM の開発と、AI エージェントの導入が加速しています。本講演では、Amazon SageMaker や Amazon Bedrock を活用したプライベート LLM 開発から、RAG との組み合わせによるドキュメント活用、Dify による AI エージェント市民開発等、リコーの開発事例をベースに、エンタープライズクラスでの生成 AI 導入を加速させるポイントをご紹介します。",
+    "speakers": [
+      {
+        "name": "梅津 良昭",
+        "title": "リコーデジタルサービスBU AI事業本部 本部長",
+        "company": "株式会社リコー"
+      }
+    ],
+    "track": "AI",
+    "level": "000",
+    "session_type": "セッション",
+    "date": "2025-06-25",
+    "start_time": "16:50",
+    "end_time": "17:20",
+    "duration": 30,
+    "room": "Room L",
+    "has_transcript": false
+  },
+  {
+    "session_id": "CUS-31",
+    "title": "Amazon Bedrock で実現する新たな学習体験：2 か月で実装した教育スタートアップの挑戦",
+    "abstract": "社内有志の取り組みから始まり、わずか 2 か月で β 版をリリースしました。以降のサービス展開拡大に向け、AWS Generative AI Innovation Center と協働し、コスト効率化と回答品質向上を実施しました。本セッションでは、ユーザー価値設計のアプローチ、ハルシネーションを防止する工夫、価値検証サイクルの実行など、Amazon Bedrock を用いた生成 AI の本番サービス活用における実践知見をお伝えします。",
+    "speakers": [
+      {
+        "name": "前田 和樹",
+        "title": "リテクノロジー推進室 VP of Engineering",
+        "company": "atama plus株式会社"
+      }
+    ],
+    "track": "AI",
+    "level": "000",
+    "session_type": "セッション",
+    "date": "2025-06-26",
+    "start_time": "13:30",
+    "end_time": "14:00",
+    "duration": 30,
+    "room": "Room L",
+    "has_transcript": true
+  },
+  {
+    "session_id": "CUS-52",
+    "title": "モンスターハンターワイルズ 100 万以上のユーザー同時接続を支えたネットワークアーキテクチャ",
+    "abstract": "モンスターハンターワイルズは多くのユーザからのアクセスを見込んだクロスプラットフォーム対応 AAA タイトルです。日本だけでなく世界各地から巨大なトラフィックが見込まれるネットワークタイトルで、サーバを 0 から構築するにあたりどのような技術を選択し、どういった苦労や工夫が行われたかご紹介させて頂きます。",
+    "speakers": [
+      {
+        "name": "筑紫 啓雄",
+        "title": "CS 第二開発統括 システム基盤部 ネットワーク開発室 エンジニア",
+        "company": "株式会社カプコン"
+      }
+    ],
+    "track": "Cloud Infrastructure",
+    "level": "000",
+    "session_type": "セッション",
+    "date": "2025-06-26",
+    "start_time": "16:00",
+    "end_time": "16:30",
+    "duration": 30,
+    "room": "Room O",
+    "has_transcript": false
+  },
+  {
+    "session_id": "AWS-16",
+    "title": "AWS Amplify で加速する生成 AI アプリケーション開発",
+    "abstract": "生成 AI はフルスタック開発を大きく変革しています。このセッションでは、新しく一般提供を開始した Amplify AI Kit を中心に、Amazon Q Developer、Amazon Bedrock がどのように連携して生成 AI アプリケーションの構築を効率化するかをご紹介します。クラウドアーキテクチャや機械学習の専門知識がなくても、インテリジェントな検索、要約、コンテンツ生成、インタラクティブなチャットボットなどの AI 機能を簡単に実装できる方法を動画を交えてご覧いただけます。また、Amazon Q Developer と AWS Amplify Gen 2 の組み合わせによる開発プロセスの効率化についても解説します。",
+    "speakers": [
+      {
+        "name": "稲田 大陸",
+        "title": "技技術統括本部 エンタープライズ技術本部 自動車・製造グループ ソリューションアーキテクト",
+        "company": "アマゾン ウェブ サービス ジャパン合同会社"
+      }
+    ],
+    "track": "AI",
+    "level": "200",
+    "session_type": "セッション",
+    "date": "2025-06-25",
+    "start_time": "14:50",
+    "end_time": "15:30",
+    "duration": 40,
+    "room": "Room B",
+    "has_transcript": false
+  },
+  {
+    "session_id": "AWS-26",
+    "title": "AWS 認定を活用して AI / ML / データ分析 キャリアを進もう！",
+    "abstract": "このセッションでは、AWS 認定を取得することが、AI / ML / データ分析分野へのキャリアにどのように役立つかをご紹介します。さまざまな業界で AI / ML / データ分析を理解している、実施できる人材の重要性が高まっています。AI / ML / データ分析分野に詳しくない方でも、AWS 認定を通じてこれらの分野の知識とスキルを習得することで、将来のキャリアをどのように形成できるかをお話しします。",
+    "speakers": [
+      {
+        "name": "冨田 修平",
+        "title": "トレーニングサービス本部 シニアテクニカルインストラクター",
+        "company": "アマゾン ウェブ サービス ジャパン合同会社"
+      }
+    ],
+    "track": "AI",
+    "level": "000",
+    "session_type": "セッション",
+    "date": "2025-06-25",
+    "start_time": "12:50",
+    "end_time": "13:30",
+    "duration": 40,
+    "room": "Room E",
+    "has_transcript": false
+  },
+  {
+    "session_id": "AWS-51",
+    "title": "AWS サポートを徹底活用して重要システムを安定稼働させよう",
+    "abstract": "ビジネスに直結する重要システムを AWS でローンチし、安定運用することについて懸念をお持ちのお客様もいらっしゃるのではないでしょうか。AWS には、システムの設計、リリースから安定運用につなげるための踏み込んだサポートを提供する AWS Countdown Premium や、障害復旧をプロアクティブに支援する AWS Incident Detection and Response などのサービスやツールがございます。本セッションでは、AWS サポートが提供するサービスやツールを活用して、重要システムの安定運用やレジリエンス向上を実現する方法をサポート現場のエンジニアの視点から解説します",
+    "speakers": [
+      {
+        "name": "古野 俊広",
+        "title": "技術支援本部 シニアクラウドサポートエンジニア",
+        "company": "アマゾン ウェブ サービス ジャパン合同会社"
+      }
+    ],
+    "track": "Migration & Modernization",
+    "level": "300",
+    "session_type": "セッション",
+    "date": "2025-06-26",
+    "start_time": "15:50",
+    "end_time": "16:30",
+    "duration": 40,
+    "room": "Room C",
+    "has_transcript": false
+  }
+]

@@ -9,15 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.839.0",
+    "@aws-sdk/client-opensearchserverless": "^3.839.0",
+    "@aws-sdk/credential-providers": "^3.839.0",
+    "@aws-sdk/lib-dynamodb": "^3.839.0",
+    "@opensearch-project/opensearch": "^3.5.1",
+    "aws-sdk": "^2.1692.0",
+    "dotenv": "^17.0.0",
+    "next": "15.3.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.3.4"
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.3.4",
-    "@eslint/eslintrc": "^3"
+    "tailwindcss": "^4"
   }
 }
